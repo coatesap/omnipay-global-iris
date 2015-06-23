@@ -1,7 +1,7 @@
 {
     "name": "coatesap/omnipay-global-iris",
     "type": "library",
-    "description": "Global Iris driver with 3D Secure & refund support for Omnipay payment processing library",
+    "description": "Global Iris Remote driver for the Omnipay payment processing library",
     "keywords": [
         "gateway",
         "merchant",
@@ -9,7 +9,8 @@
         "pay",
         "payment",
         "purchase",
-        "global iris"
+        "global iris",
+        "remote"
     ],
     "homepage": "https://github.com/coatesap/global-iris",
     "license": "MIT",

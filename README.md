@@ -1,4 +1,4 @@
-# Omnipay: Global Iris
+# Omnipay: Global Iris Remote
 
 **Global Iris driver for the Omnipay payment processing library**
 
