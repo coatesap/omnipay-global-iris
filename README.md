@@ -2,7 +2,7 @@
 
 **Global Iris driver for the Omnipay payment processing library**
 
-[![Total Downloads](https://poser.pugx.org/coatesap/omnipay-realex/d/total.png)](https://packagist.org/packages/coatesap/omnipay-global-iris)
+[![Total Downloads](https://poser.pugx.org/coatesap/omnipay-global-iris/d/total.png)](https://packagist.org/packages/coatesap/omnipay-global-iris)
 
 [Omnipay](https://github.com/omnipay/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP 5.3+. This package implements Global Iris (Remote) integration for Omnipay, including optional 3D Secure support.
