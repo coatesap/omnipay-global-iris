@@ -1,0 +1,28 @@
+{
+    "name": "coatesap/omnipay-global-iris",
+    "type": "library",
+    "description": "Global Iris driver with 3D Secure & refund support for Omnipay payment processing library",
+    "keywords": [
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment",
+        "purchase",
+        "global iris"
+    ],
+    "homepage": "https://github.com/coatesap/global-iris",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Coates",
+            "email": "andycoatz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Omnipay\\GlobalIris\\" : "src/" }
+    },
+    "require": {
+		"coatesap/omnipay-realex": "~3.0"
+    }
+}
