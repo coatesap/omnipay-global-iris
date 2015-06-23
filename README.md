@@ -1,4 +1,4 @@
-# Omnipay: GlobalIris
+# Omnipay: Global Iris
 
 **Global Iris driver for the Omnipay payment processing library**
 
@@ -7,7 +7,7 @@
 [Omnipay](https://github.com/omnipay/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP 5.3+. This package implements Global Iris (Remote) integration for Omnipay, including optional 3D Secure support.
 
-Global Iris is basically a branded version of the Realex payment gateway. Therefore, this driver just extends the Omnipay Realex driver, overriding the default Realex URLs.
+Global Iris is basically a branded version of the Realex payment gateway. Therefore, this driver extends the Omnipay Realex driver, overriding the default Realex URLs.
 
 ## Installation
 
@@ -38,8 +38,8 @@ repository.
 
 ## 3D Secure
 
-The GlobalIris driver has 3D Secure checking turned off by default.
-To enable 3D Secure, make sure you have received a 3D Secure account reference from GlobalIris, then set the `3dSecure` parameter as '1' when you initialise the gateway.
+The Global Iris driver has 3D Secure checking turned off by default.
+To enable 3D Secure, make sure you have received a 3D Secure account reference from Global Iris, then set the `3dSecure` parameter as '1' when you initialise the gateway.
 
 ## Refunds
 
