@@ -24,6 +24,6 @@
         "psr-0": { "Omnipay\\GlobalIris\\" : "src/" }
     },
     "require": {
-		"coatesap/omnipay-realex": "~4.0"
+		"digitickets/omnipay-realex": "^5.0"
     }
 }
