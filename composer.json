@@ -1,5 +1,5 @@
 {
-    "name": "coatesap/omnipay-global-iris",
+    "name": "digitickets/omnipay-global-iris",
     "type": "library",
     "description": "Global Iris Remote driver for the Omnipay payment processing library",
     "keywords": [
@@ -12,7 +12,7 @@
         "global iris",
         "remote"
     ],
-    "homepage": "https://github.com/coatesap/global-iris",
+    "homepage": "https://github.com/digitickets/omnipay-global-iris",
     "license": "MIT",
     "authors": [
         {
