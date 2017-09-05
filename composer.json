@@ -28,6 +28,6 @@
         "psr-0": { "Omnipay\\GlobalIris\\" : "src/" }
     },
     "require": {
-		"digitickets/omnipay-realex": "^5.0"
+		"digitickets/omnipay-realex": "dev-master"
     }
 }
